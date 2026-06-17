@@ -1,1 +1,2 @@
-# RequerimientosAs-ncronos
+# Javascript - Requerimientos Asíncronos
+Francis Loayza
